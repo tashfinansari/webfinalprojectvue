@@ -37,9 +37,11 @@ h4 {
 
 h1:hover {
   filter: invert();
+  background-color: #e8e1e1;
 }
 
 h4:hover {
   filter: invert();
+  background-color: #e8e1e1;
 }
 </style>

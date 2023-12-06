@@ -15,8 +15,8 @@
       <Header heading="Student Details" description="FALL 2023" />
 
       <button @click="toggle = !toggle">
-        Toggle between Students and Faculties
-      </button>
+        Toggle between Students and Faculties</button
+      >`
 
       <div v-if="toggle">
         <StudentInfo :students="students" />
@@ -116,9 +116,9 @@ div {
 }
 
 button {
-  background-color: #c7dcf2;
+  background-color: #f7c520;
   text-align: center;
-  color: white;
+  color: black;
   padding: 2%;
   margin: 5px;
   margin-bottom: 12px;
@@ -128,10 +128,12 @@ button {
 
 button:hover {
   filter: invert();
+  background-color: #e8e1e1;
 }
 
 .h1:hover {
   filter: invert();
+  background-color: #e8e1e1;
 }
 
 .h3 {
