@@ -23,15 +23,15 @@ div {
 h1 {
   background-color: #f5fe96;
   padding: 3%;
-  color: #900c3f;
+  color: #f2dfe6;
   border-radius: 15px;
   margin: 2px;
 }
 
 h4 {
-  background-color: #d0daf6;
+  background-color: #cbfc17;
   padding: 1%;
-  color: white;
+  color: black;
   border-radius: 15px;
 }
 
