@@ -115,9 +115,8 @@ div {
 }
 
 button {
-  background-color: sandstone;
+  background-color: blue;
   text-align: center;
-  text-color: black;
   color: white;
   padding: 2%;
   margin: 5px;
