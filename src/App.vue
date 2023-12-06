@@ -118,7 +118,7 @@ div {
 button {
   background-color: #f7c520;
   text-align: center;
-  color: black;
+  color: #f5f4df;
   padding: 2%;
   margin: 5px;
   margin-bottom: 12px;
@@ -133,7 +133,6 @@ button:hover {
 
 .h1:hover {
   filter: invert();
-  background-color: #e8e1e1;
 }
 
 .h3 {
@@ -145,7 +144,7 @@ button:hover {
 a {
   text-align: center;
   text-decoration: none;
-  color: #f7e9eb;
+  color: #5c6b80;
   filter: invert();
 }
 
