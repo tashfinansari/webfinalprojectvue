@@ -36,17 +36,17 @@ h4 {
 }
 
 div {
-  background-color: #ffb89e;
+  background-color: #f5dad0;
   color: black;
   padding: 1em;
 }
 
 .green {
-  background-color: green;
+  background-color: #d0f5d1;
 }
 .red {
   /* background-color: orangered !important; */
-  background-color: red;
+  background-color: #ff8585;
 }
 
 img {
