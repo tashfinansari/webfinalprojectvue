@@ -89,7 +89,7 @@ export default {
 
 .banner {
   padding: 5px;
-  background-color: #573731;
+  background-color: #f5f1f0;
   color: #fc7021;
   font-weight: bolder;
   margin: 0;
@@ -112,6 +112,7 @@ div {
   margin-top: 2%;
   text-align: center;
   text-decoration: underline;
+  text-color: #6f96f7;
 }
 
 button {
@@ -136,7 +137,7 @@ button:hover {
 .h3 {
   margin-top: 2%;
   text-align: center;
-  color: grey;
+  color: #2a2a2b;
 }
 
 a {
