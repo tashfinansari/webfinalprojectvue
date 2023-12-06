@@ -23,7 +23,7 @@ div {
 h1 {
   background-color: #f5fe96;
   padding: 3%;
-  color: #f2dfe6;
+  color: black;
   border-radius: 15px;
   margin: 2px;
 }
@@ -31,17 +31,15 @@ h1 {
 h4 {
   background-color: #cbfc17;
   padding: 1%;
-  color: black;
+  color: white;
   border-radius: 15px;
 }
 
 h1:hover {
   filter: invert();
-  background-color: #e8e1e1;
 }
 
 h4:hover {
   filter: invert();
-  background-color: #e8e1e1;
 }
 </style>
