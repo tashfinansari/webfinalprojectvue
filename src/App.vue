@@ -90,7 +90,7 @@ export default {
 .banner {
   padding: 5px;
   background-color: #f5f1f0;
-  color: #fc7021;
+  color: #4eaaba;
   font-weight: bolder;
   margin: 0;
 }
@@ -112,11 +112,10 @@ div {
   margin-top: 2%;
   text-align: center;
   text-decoration: underline;
-  text-color: #6f96f7;
 }
 
 button {
-  background-color: white;
+  background-color: sandstone;
   text-align: center;
   text-color: black;
   color: white;
@@ -129,7 +128,6 @@ button {
 
 button:hover {
   filter: invert();
-  background-color: white;
 }
 
 .h1:hover {
