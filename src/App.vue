@@ -100,7 +100,7 @@ export default {
   overflow: auto;
   min-height: 300px;
   padding: 30px;
-  background-color: #bd4f6c;
+  background-color: #f2c7d2;
   text-align: center;
 }
 
@@ -115,7 +115,7 @@ div {
 }
 
 button {
-  background-color: blue;
+  background-color: #c7dcf2;
   text-align: center;
   color: white;
   padding: 2%;
@@ -142,7 +142,7 @@ button:hover {
 a {
   text-align: center;
   text-decoration: none;
-  color: orange;
+  color: #f7e9eb;
   filter: invert();
 }
 
