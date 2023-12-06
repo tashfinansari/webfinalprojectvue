@@ -100,7 +100,7 @@ export default {
   overflow: auto;
   min-height: 300px;
   padding: 30px;
-  background-color: #f2c7d2;
+  background-color: #f7e6ea;
   text-align: center;
 }
 
@@ -116,9 +116,10 @@ div {
 }
 
 button {
-  background-color: #f7c520;
+  background-color: white;
   text-align: center;
-  color: #f5f4df;
+  text-color: black;
+  color: white;
   padding: 2%;
   margin: 5px;
   margin-bottom: 12px;
@@ -128,7 +129,7 @@ button {
 
 button:hover {
   filter: invert();
-  background-color: #e8e1e1;
+  background-color: white;
 }
 
 .h1:hover {
@@ -138,13 +139,13 @@ button:hover {
 .h3 {
   margin-top: 2%;
   text-align: center;
-  color: #2a2a2b;
+  color: #d5d5db;
 }
 
 a {
   text-align: center;
   text-decoration: none;
-  color: #5c6b80;
+  color: #8497b3;
   filter: invert();
 }
 
